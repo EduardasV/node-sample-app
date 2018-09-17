@@ -1,4 +1,4 @@
-# Eduardas
+# Eduardas Verbs
 
 # Sparta Node Sample App
 
