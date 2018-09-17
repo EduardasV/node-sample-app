@@ -1,5 +1,3 @@
-# Eduardas
-
 # Sparta Node Sample App
 
 ## Description
